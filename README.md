@@ -211,13 +211,13 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ## blank canvas
-![output](./paintapp/static/img/1.PNG)
+![output](./paintapp/static/img/1.png)
 
 ## drawn canvas
-![output](./paintapp/static/img/2.PNG)
+![output](./paintapp/static/img/2.png)
 
 ## size change
-![output](./paintapp/static/img/3.PNG)
+![output](./paintapp/static/img/3.png)
 
 
 ## Result:
